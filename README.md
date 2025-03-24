@@ -50,5 +50,7 @@ npm install
 npx nodemon server.js
 ```
 
+## Reference
+
 - **Spotify Document for Web API:** [Spotify Web API Documentation](https://developer.spotify.com/documentation/web-api)
 - **Instructions:** [HW 5](https://ee547.usc-ece.com/static/hw/05/hw5-ee547-25sp.pdf), [HW 6](https://ee547.usc-ece.com/static/hw/06/hw6-ee547-25sp.pdf)
